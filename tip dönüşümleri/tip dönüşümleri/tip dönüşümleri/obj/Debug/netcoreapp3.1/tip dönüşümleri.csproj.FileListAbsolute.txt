@@ -1,0 +1,14 @@
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\bin\Debug\netcoreapp3.1\tip dönüşümleri.exe
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\bin\Debug\netcoreapp3.1\tip dönüşümleri.deps.json
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\bin\Debug\netcoreapp3.1\tip dönüşümleri.runtimeconfig.json
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\bin\Debug\netcoreapp3.1\tip dönüşümleri.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\bin\Debug\netcoreapp3.1\tip dönüşümleri.dll
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\bin\Debug\netcoreapp3.1\tip dönüşümleri.pdb
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.AssemblyInfo.cs
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.dll
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.pdb
+C:\Users\User\OneDrive\Masaüstü\Pratikler C#\tip dönüşümleri\tip dönüşümleri\tip dönüşümleri\obj\Debug\netcoreapp3.1\tip dönüşümleri.genruntimeconfig.cache
